@@ -1,0 +1,2 @@
+# Project-2-Red-Team-Vs-Blue-Team-
+In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst.  As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team, I used Kibana to review logs taken during their Day 1 engagement. I then extracted the hard data and visualizations for the report.  Then, I interpreted the log data &amp; suggested mitigation measures for each exploit that was  successfully performed.
